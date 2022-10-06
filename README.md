@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @atelierbyalma
-- 👀 I’m interested in music composition, reading, hiking, drawing, tea & cinema.
-- 🌱 I’m currently learning CSS, French, Illustration and singing.
+- 👋 Hi, I’m @ppandemuerto.
+- 👀 I’m interested in musicology & travelling.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me @byalma___
 
